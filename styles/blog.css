@@ -3,5 +3,13 @@ div {
     padding: 20px;
     margin-bottom: 10px;
     border-radius: 10px;
-    
+
+}
+h3{
+    font-size: 20px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+p,li {
+    font-size: 18px;
 }
